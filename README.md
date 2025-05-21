@@ -2,11 +2,12 @@
 
 *Auteurs du notebook (et potentiellement du projet) :* 
 
+   
+  -Zakaria AYAD 
+
   -Hala QUERRICH 
 
   -Jihane ELAMRANI
-
-  -Zakaria AYAD .
 
 
 *Date de présentation prévue :* SAMEDI 17 Mai 2025
